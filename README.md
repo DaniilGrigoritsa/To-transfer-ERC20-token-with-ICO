@@ -8,6 +8,7 @@ This project represents two smart contracts:
 Note that contract has a white list (whiteList array), only users from this array are able to transfer tokens before ICO expiring, only owner of a ERC20TTT.sol contract can add users to white list and also remove them
 
 ICO smart contract has three periods of token purchasing
+________________________________________________________
 
 To start a project clone this repository and install all dependencies using: `npm install` (if you have npm setup) 
 
